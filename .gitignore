@@ -1,0 +1,7 @@
+# IDE, editors
+.idea/
+*.swp
+
+# Java
+*.jar
+target/
